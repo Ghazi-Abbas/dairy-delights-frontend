@@ -1,0 +1,651 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "milk",
+      "productName": "Bottled Milk",
+      "description": "500ml bottle pack",
+      "price": "30",
+      "image": "dairies/milk.jpg",
+      "nutritionalValue": "rich in calcium. good for bones",
+      "rating": "4.0"
+    },
+    {
+      "id": "2",
+      "category": "milk",
+      "productName": "Milk Bottles",
+      "description": "3 x 500ml bottle pack",
+      "price": "110",
+      "image": "dairies/milk_bottles.jpg",
+      "nutritionalValue": "rich in calcium. good for bones",
+      "rating": "4.1"
+    },
+    {
+      "id": "3",
+      "category": "milk",
+      "productName": "Milk Tetra Pack",
+      "description": "1 litre bottle pack",
+      "price": "100",
+      "image": "dairies/milk-tetra.jpg",
+      "nutritionalValue": "rich in calcium. good for bones",
+      "rating": "4.9"
+    },
+    {
+      "id": "4",
+      "category": "butter",
+      "productName": "Salted Butter",
+      "description": "100gm packet",
+      "price": "50",
+      "image": "dairies/butter.jpg",
+      "nutritionalValue": "rich in sodium and calcium. good for joints",
+      "rating": "3.1"
+    },
+    {
+      "id": "5",
+      "category": "buttermilk",
+      "productName": "Plain Buttermilk",
+      "description": "500ml pack",
+      "price": "20",
+      "image": "dairies/buttermilk.jpg",
+      "nutritionalValue": "rich in calcium. low calories. improves metabolism",
+      "rating": "2.1"
+    },
+    {
+      "id": "6",
+      "category": "cheese",
+      "productName": "Cheese Cubes",
+      "description": "pack of 6 cubes",
+      "price": "80",
+      "image": "dairies/cheese_cubes.jpg",
+      "nutritionalValue": "rich in protien, high calorific, energy booster"
+    },
+    {
+      "id": "7",
+      "category": "cheese",
+      "productName": "Cheese Slice",
+      "description": "pack of 5 slices",
+      "price": "60",
+      "image": "dairies/cheese_sliced.jpg",
+      "nutritionalValue": "rich in protien, high calorific, energy booster"
+    },
+    {
+      "id": "8",
+      "category": "cheese",
+      "productName": "Cheese Spread",
+      "description": "200gm pack",
+      "price": "500",
+      "image": "dairies/cheese_spread.jpg",
+      "nutritionalValue": "rich in protien, high calorific, energy booster"
+    },
+    {
+      "id": "9",
+      "category": "milk",
+      "productName": "Cow Milk",
+      "description": "500ml bottle pack",
+      "price": "32",
+      "image": "dairies/cow_milk.jpg",
+      "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol"
+    },
+    {
+      "id": "10",
+      "category": "milk",
+      "productName": "Cow Milk Tetra Pack",
+      "description": "1 litre tetra pack",
+      "price": "60",
+      "image": "dairies/cow_milk_tetra_pack.jpg",
+      "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol"
+    },
+    {
+      "id": "11",
+      "category": "curd",
+      "productName": "Plain Curd",
+      "description": "500gm pack",
+      "price": "25",
+      "image": "dairies/curd.jpg",
+      "nutritionalValue": "rich in calcium. good for bones. improves metabolism"
+    },
+    {
+      "id": "12",
+      "category": "cream",
+      "productName": "Fresh Cream",
+      "description": "500gm pack",
+      "price": "200",
+      "image": "dairies/fresh_cream.jpg",
+      "nutritionalValue": "rich in protein and calcium. good for bones"
+    },
+    {
+      "id": "13",
+      "category": "yogurt",
+      "productName": "Fruit Yogurt",
+      "description": "500gm pack",
+      "price": "60",
+      "image": "dairies/fruit_yogurt.jpg",
+      "nutritionalValue": "high fibre, high protein, rich in calcium"
+    },
+    {
+      "id": "14",
+      "category": "ghee",
+      "productName": "Cow Ghee",
+      "description": "250gm pack",
+      "price": "100",
+      "image": "dairies/ghee.jpg",
+      "nutritionalValue": "rich in calcium, protein."
+    },
+    {
+      "id": "15",
+      "category": "yogurt",
+      "productName": "Healthy Yogurt",
+      "description": "200gm pack",
+      "price": "500",
+      "image": "dairies/healthy_yogurt.jpg",
+      "nutritionalValue": "rich in calcium"
+    },
+    {
+      "id": "16",
+      "category": "butter",
+      "productName": "White Butter",
+      "description": "200gm pack",
+      "price": "100",
+      "image": "dairies/home_made_white_butter_.jpg",
+      "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol"
+    },
+    {
+      "id": "17",
+      "category": "paneer",
+      "productName": "Paneer - Cottage Cheese",
+      "description": "200gm pack",
+      "price": "100",
+      "image": "dairies/paneer.jpg",
+      "nutritionalValue": "rich in protein, calcium. increases good cholesterol"
+    },
+    {
+      "id": "18",
+      "category": "butter",
+      "productName": "Peanut Butter",
+      "description": "250gm pack",
+      "price": "200",
+      "image": "dairies/peanut_butter.jpg",
+      "nutritionalValue": "rich in protein, good for hair and eyes"
+    }
+  ],
+  "orders": [
+    {
+      "firstName": "James",
+      "address": "A-1704, Ekta Bhumi Garden 3 Off Dattapada Road,",
+      "productName": "Plain Buttermilk",
+      "city": "Mumbai",
+      "contact": "9920998416",
+      "deliveryDate": "2024-03-07T06:02:20.367Z",
+      "email": "james.mathew@stackroute.in",
+      "lastName": "Mathew",
+      "postalCode": "40006",
+      "quantity": 1,
+      "state": "Maharashtra",
+      "middleName": "Mihir",
+      "id": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "USER001",
+      "fullName": "John Smith",
+      "email": "john.smith@email.com",
+      "mobileN": "1234567890",
+      "Password": "password123",
+      "address": "123 Main Street, New York, NY",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER002",
+      "fullName": "Emma Johnson",
+      "email": "emma.j@email.com",
+      "mobileN": "2345678901",
+      "Password": "securepass456",
+      "address": "456 Oak Avenue, Los Angeles, CA",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER003",
+      "fullName": "Michael Brown",
+      "email": "m.brown@email.com",
+      "mobileN": "3456789012",
+      "Password": "mike789pass",
+      "address": "789 Pine Road, Chicago, IL",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER004",
+      "fullName": "Sarah Davis",
+      "email": "sarah.davis@email.com",
+      "mobileN": "4567890123",
+      "Password": "sarah2024pass",
+      "address": "321 Elm Street, Houston, TX",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER005",
+      "fullName": "David Wilson",
+      "email": "123@gmail.com",
+      "mobileN": "5678901234",
+      "Password": "123@gmail.com",
+      "address": "654 Maple Drive, Phoenix, AZ",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1762766147615,
+          "items": [
+            {
+              "id": "1",
+              "category": "milk",
+              "productName": "Bottled Milk",
+              "description": "500ml bottle pack",
+              "price": "30",
+              "image": "dairies/milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.0",
+              "quantity": 6
+            }
+          ],
+          "amount": 180,
+          "date": "2025-11-10T09:15:47.615Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        },
+        {
+          "id": 1762768498509,
+          "items": [
+            {
+              "id": "1",
+              "category": "milk",
+              "productName": "Bottled Milk",
+              "description": "500ml bottle pack",
+              "price": "30",
+              "image": "dairies/milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.0",
+              "quantity": 2
+            },
+            {
+              "id": "2",
+              "category": "milk",
+              "productName": "Milk Bottles",
+              "description": "3 x 500ml bottle pack",
+              "price": "110",
+              "image": "dairies/milk_bottles.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.1",
+              "quantity": 1
+            }
+          ],
+          "amount": 170,
+          "date": "2025-11-10T09:54:58.509Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        },
+        {
+          "id": 1762793073957,
+          "items": [
+            {
+              "id": "6",
+              "category": "cheese",
+              "productName": "Cheese Cubes",
+              "description": "pack of 6 cubes",
+              "price": "80",
+              "image": "dairies/cheese_cubes.jpg",
+              "nutritionalValue": "rich in protien, high calorific, energy booster",
+              "quantity": 3
+            }
+          ],
+          "amount": 240,
+          "date": "2025-11-10T16:44:33.957Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        },
+        {
+          "id": 1762870838974,
+          "items": [
+            {
+              "id": "1",
+              "category": "milk",
+              "productName": "Bottled Milk",
+              "description": "500ml bottle pack",
+              "price": "30",
+              "image": "dairies/milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.0",
+              "quantity": 3
+            },
+            {
+              "id": "2",
+              "category": "milk",
+              "productName": "Milk Bottles",
+              "description": "3 x 500ml bottle pack",
+              "price": "110",
+              "image": "dairies/milk_bottles.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.1",
+              "quantity": 3
+            }
+          ],
+          "amount": 420,
+          "date": "2025-11-11T14:20:38.974Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        },
+        {
+          "id": 1763040974659,
+          "items": [
+            {
+              "id": "2",
+              "category": "milk",
+              "productName": "Milk Bottles",
+              "description": "3 x 500ml bottle pack",
+              "price": "110",
+              "image": "dairies/milk_bottles.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.1",
+              "quantity": 2
+            },
+            {
+              "id": "9",
+              "category": "milk",
+              "productName": "Cow Milk",
+              "description": "500ml bottle pack",
+              "price": "32",
+              "image": "dairies/cow_milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol",
+              "quantity": 2
+            }
+          ],
+          "amount": "284.00",
+          "date": "2025-11-13T13:36:14.659Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        },
+        {
+          "id": 1763566706173,
+          "items": [
+            {
+              "id": "1",
+              "category": "milk",
+              "productName": "Bottled Milk",
+              "description": "500ml bottle pack",
+              "price": "30",
+              "image": "dairies/milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.0",
+              "quantity": 3
+            }
+          ],
+          "amount": "90.00",
+          "date": "2025-11-19T15:38:26.173Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "id": "USER006",
+      "fullName": "Lisa Anderson",
+      "email": "lisa.a@email.com",
+      "mobileN": "6789012345",
+      "Password": "lisa.a@email.com",
+      "address": "987 Cedar Lane, Philadelphia, PA",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg ",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER007",
+      "fullName": "Robert Taylor",
+      "email": "robert.t@email.com",
+      "mobileN": "7890123456",
+      "Password": "robertpass789",
+      "address": "147 Walnut Street, San Antonio, TX",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER008",
+      "fullName": "Jennifer Martinez",
+      "email": "j.martinez@email.com",
+      "mobileN": "8901234567",
+      "Password": "jenny2024mart",
+      "address": "258 Birch Avenue, San Diego, CA",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER009",
+      "fullName": "Christopher Lee",
+      "email": "chris.lee@email.com",
+      "mobileN": "9012345678",
+      "Password": "chrisleepass456",
+      "address": "369 Spruce Court, Dallas, TX",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "USER010",
+      "fullName": "Amanda White",
+      "email": "amanda.white@email.com",
+      "mobileN": "0123456789",
+      "Password": "amandawhite789",
+      "address": "741 Aspen Way, San Jose, CA",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1762770340621,
+          "items": [
+            {
+              "id": "1",
+              "category": "milk",
+              "productName": "Bottled Milk",
+              "description": "500ml bottle pack",
+              "price": "30",
+              "image": "dairies/milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.0",
+              "quantity": 1
+            }
+          ],
+          "amount": 30,
+          "date": "2025-11-10T10:25:40.621Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        }
+      ]
+    },
+    {
+      "id": "ADMIN001",
+      "fullName": "Admin User",
+      "email": "admin@system.com",
+      "mobileN": "9998887777",
+      "Password": "admin@system.com",
+      "address": "1 Admin Plaza, System Headquarters",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "role": "ROLE_ADMIN",
+      "status": "Active",
+      "cart": [],
+      "orders": {
+        "id": 1763566706173,
+        "items": [
+          {
+            "id": "1",
+            "category": "milk",
+            "productName": "Bottled Milk",
+            "description": "500ml bottle pack",
+            "price": "30",
+            "image": "dairies/milk.jpg",
+            "nutritionalValue": "rich in calcium. good for bones",
+            "rating": "4.0",
+            "quantity": 3
+          }
+        ],
+        "amount": "90.00",
+        "userName": "David Wilson",
+        "userEmail": "123@gmail.com",
+        "userAddress": "654 Maple Drive, Phoenix, AZ",
+        "userImage": "https://randomuser.me/api/portraits/men/5.jpg",
+        "date": "2025-11-19T15:38:26.174Z",
+        "paymentMethod": "card",
+        "status": "Pending"
+      }
+    },
+    {
+      "id": "6980",
+      "fullName": "abcdef",
+      "email": "abc@gmail.com",
+      "mobileN": "1231213123",
+      "Password": "123123123",
+      "address": "abcd abcd",
+      "role": "ROLE_USER",
+      "status": "Active",
+      "cart": [],
+      "oeders": [],
+      "orders": [
+        {
+          "id": 1762883156784,
+          "items": [
+            {
+              "id": "1",
+              "category": "milk",
+              "productName": "Bottled Milk",
+              "description": "500ml bottle pack",
+              "price": "30",
+              "image": "dairies/milk.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.0",
+              "quantity": 1
+            },
+            {
+              "id": "2",
+              "category": "milk",
+              "productName": "Milk Bottles",
+              "description": "3 x 500ml bottle pack",
+              "price": "110",
+              "image": "dairies/milk_bottles.jpg",
+              "nutritionalValue": "rich in calcium. good for bones",
+              "rating": "4.1",
+              "quantity": 1
+            }
+          ],
+          "amount": 140,
+          "date": "2025-11-11T17:45:56.784Z",
+          "paymentMethod": "card",
+          "status": "Pending"
+        }
+      ]
+    }
+  ],
+  "admin": [
+    {
+      "id": "ADMIN001",
+      "fullName": "Admin User",
+      "email": "admin@system.com",
+      "mobileN": "9998887777",
+      "Password": "admin@system.com",
+      "address": "1 Admin Plaza, System Headquarters",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "role": "ROLE_ADMIN",
+      "status": "Active",
+      "cart": [],
+      "orders": []
+    }
+  ],
+  "demoCards": [
+    {
+      "id": "1",
+      "ownerName": "Test User One",
+      "cardNumber": "4111 1111 1111 1111",
+      "expiry": "12/28",
+      "cvv": "123",
+      "pin": "0000",
+      "password": "demoPass1",
+      "demoBalance": 5000,
+      "currency": "INR",
+      "note": "Visa test card — use for UI/demo only"
+    },
+    {
+      "id": "2",
+      "ownerName": "Test User Two",
+      "cardNumber": "4242 4242 4242 4242",
+      "expiry": "11/27",
+      "cvv": "321",
+      "pin": "1111",
+      "password": "demoPass2",
+      "demoBalance": 2500,
+      "currency": "INR",
+      "note": "Mastercard-style test number — demo use only"
+    },
+    {
+      "id": "3",
+      "ownerName": "Demo Wallet",
+      "cardNumber": "4000 0000 0000 0099",
+      "expiry": "08/26",
+      "cvv": "456",
+      "pin": "2222",
+      "password": "demoPass3",
+      "demoBalance": 1200,
+      "currency": "INR",
+      "note": "Generic test number — not a real card"
+    },
+    {
+      "id": "4",
+      "ownerName": "Sample Customer",
+      "cardNumber": "4012 8888 8888 1881",
+      "expiry": "07/29",
+      "cvv": "789",
+      "pin": "3333",
+      "password": "demoPass4",
+      "demoBalance": 9999,
+      "currency": "INR",
+      "note": "Sample/demo only"
+    },
+    {
+      "id": "5",
+      "ownerName": "QA Account",
+      "cardNumber": "4222 2222 2222 2",
+      "expiry": "10/30",
+      "cvv": "111",
+      "pin": "4444",
+      "password": "demoPass5",
+      "demoBalance": 1500,
+      "currency": "INR",
+      "note": "Test card for UI & payment flow testing"
+    }
+  ]
+}
